@@ -1,0 +1,1 @@
+Historical note for the exercise. It is unrelated to the formatter and must remain.
