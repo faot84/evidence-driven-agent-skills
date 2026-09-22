@@ -1,4 +1,17 @@
-# Evidence-driven agent skills
+<div align="center">
+  <img src="assets/evidence-driven-agent-skills.svg" alt="Evidence-driven agent skills icon" width="180" />
+
+  <h1>Evidence-driven agent skills</h1>
+
+  <p><strong>Reusable workflows for auditing, debugging, verification, safe delegation, and non-destructive AI-assisted software work.</strong></p>
+
+  <p>
+    <a href="https://github.com/faot84/evidence-driven-agent-skills/actions/workflows/validate.yml"><img alt="validate" src="https://github.com/faot84/evidence-driven-agent-skills/actions/workflows/validate.yml/badge.svg"></a>
+    <img alt="9 skills" src="https://img.shields.io/badge/skills-9-0ea5a5">
+    <img alt="Python 3.9+" src="https://img.shields.io/badge/Python-3.9%2B-3776AB">
+    <a href="LICENSE"><img alt="MIT license" src="https://img.shields.io/badge/license-MIT-2563eb"></a>
+  </p>
+</div>
 
 Nine reusable agent skills and one optional subagent for examining a software delivery, making an evidence-based acceptance decision, finding the real cause of a failure, reporting only what was checked, delegating work safely, and carrying out an authorized change without discarding existing work. They are generalized from internal workflows into standalone instructions that do not require a named team, a particular repository layout, or private memory.
 
